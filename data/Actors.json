@@ -1,23 +1,503 @@
 [
-null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gart","nickname":"","note":"  <Column 1 Variables: 21 to 28>\n  <Column 2 Variables: 29 to 36>\n  <Column 3 Variables: 37 to 40>\n","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Arminas","nickname":"","note":"  <Column 1 Variables: 41 to 48>\n  <Column 2 Variables: 49 to 56>\n  <Column 3 Variables: 57 to 60>\n","profile":""},
-{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lalwen","nickname":"","note":"  <Column 1 Variables: 61 to 68>\n  <Column 2 Variables: 69 to 76>\n  <Column 3 Variables: 77 to 80>\n","profile":""},
-{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Luthien","nickname":"","note":"  <Column 1 Variables: 81 to 88>\n  <Column 2 Variables: 89 to 96>\n  <Column 3 Variables: 97 to 100>\n","profile":""},
-{"id":5,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Serindé","nickname":"","note":"  <Column 1 Variables: 101 to 108>\n  <Column 2 Variables: 109 to 116>\n  <Column 3 Variables: 117 to 120>\n","profile":""},
-{"id":6,"battlerName":"hector1_7","characterIndex":0,"characterName":"hector1_7","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hector1_7","traits":[],"initialLevel":1,"maxLevel":99,"name":"Olympe","nickname":"","note":"  <Column 1 Variables: 121 to 128>\n  <Column 2 Variables: 129 to 136>\n  <Column 3 Variables: 136 to 140>\n","profile":""},
-{"id":7,"battlerName":"fantasy-heroine-sv_actors01","characterIndex":0,"characterName":"Fantasy-Heroine","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Elf A","traits":[],"initialLevel":1,"maxLevel":99,"name":"Armechy","nickname":"","note":"  <Column 1 Variables: 141 to 148>\n  <Column 2 Variables: 149 to 156>\n  <Column 3 Variables: 157 to 160>\n","profile":""},
-{"id":8,"battlerName":"fantasy-heroine-sv_actors07","characterIndex":6,"characterName":"Fantasy-Heroine","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Elf B","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kathris","nickname":"","note":"  <Column 1 Variables: 161 to 168>\n  <Column 2 Variables: 169 to 176>\n  <Column 3 Variables: 177 to 180>\n","profile":""},
-{"id":9,"battlerName":"fantasy-heroine-sv_actors04","characterIndex":3,"characterName":"Fantasy-Heroine","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Inari","traits":[],"initialLevel":1,"maxLevel":99,"name":"Larodia","nickname":"","note":"  <Column 1 Variables: 181 to 188>\n  <Column 2 Variables: 189 to 196>\n  <Column 3 Variables: 197 to 200>\n","profile":""},
-{"id":10,"battlerName":"fantasy-heroine-sv_actors08","characterIndex":7,"characterName":"Fantasy-Heroine","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Gothic Lolita","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nuada","nickname":"","note":"  <Column 1 Variables: 201 to 208>\n  <Column 2 Variables: 209 to 216>\n  <Column 3 Variables: 217 to 220>\n","profile":""},
-{"id":11,"battlerName":"fantasy-heroine-sv_actors02","characterIndex":1,"characterName":"Fantasy-Heroine","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Neko Musume","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tygra","nickname":"","note":"  <Column 1 Variables: 221 to 228>\n  <Column 2 Variables: 229 to 236>\n  <Column 3 Variables: 237 to 240>\n","profile":""},
-{"id":12,"battlerName":"fantasy-heroine-sv_actors06b","characterIndex":5,"characterName":"Fantasy-Heroine","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Samurai","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sabrae","nickname":"","note":"  <Column 1 Variables: 241 to 248>\n  <Column 2 Variables: 249 to 256>\n  <Column 3 Variables: 257 to 260>\n","profile":""},
-{"id":13,"battlerName":"hector1_3","characterIndex":0,"characterName":"hector1_3","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hector1_3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stakka","nickname":"","note":"  <Column 1 Variables: 261 to 268>\n  <Column 2 Variables: 269 to 276>\n  <Column 3 Variables: 277 to 280>\n","profile":""},
-{"id":14,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vayreh","nickname":"","note":"  <Column 1 Variables: 281 to 288>\n  <Column 2 Variables: 289 to 296>\n  <Column 3 Variables: 297 to 300>\n","profile":""},
-{"id":15,"battlerName":"hector1_4","characterIndex":0,"characterName":"hector1_4","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hector1_4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lenwe","nickname":"","note":"  <Column 1 Variables: 301 to 308>\n  <Column 2 Variables: 309 to 316>\n  <Column 3 Variables: 317 to 320>\n","profile":""},
-{"id":16,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Haldor","nickname":"","note":"  <Column 1 Variables: 321 to 328>\n  <Column 2 Variables: 329 to 336>\n  <Column 3 Variables: 337 to 340>\n","profile":""},
-{"id":17,"battlerName":"hector1_1","characterIndex":0,"characterName":"hector1_1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hector1_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eluchil","nickname":"","note":"  <Column 1 Variables: 341 to 348>\n  <Column 2 Variables: 349 to 356>\n  <Column 3 Variables: 357 to 360>\n","profile":""},
-{"id":18,"battlerName":"hector1_5","characterIndex":0,"characterName":"hector1_5","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hector1_5","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mifia","nickname":"","note":"  <Column 1 Variables: 361 to 368>\n  <Column 2 Variables: 369 to 376>\n  <Column 3 Variables: 377 to 380>\n","profile":""},
-{"id":19,"battlerName":"Actor2_8","characterIndex":7,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kiselle","nickname":"","note":"  <Column 1 Variables: 381 to 388>\n  <Column 2 Variables: 389 to 396>\n  <Column 3 Variables: 397 to 400>\n","profile":""},
-{"id":20,"battlerName":"hector1_6","characterIndex":0,"characterName":"hector1_6","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hector1_6","traits":[],"initialLevel":1,"maxLevel":99,"name":"Méisel","nickname":"","note":"  <Column 1 Variables: 401 to 408>\n  <Column 2 Variables: 409 to 416>\n  <Column 3 Variables: 417 to 420>\n","profile":""}
+   null,
+   {
+      "id":1,
+      "battlerName":"Actor1_1",
+      "characterIndex":0,
+      "characterName":"Actor1",
+      "classId":1,
+      "equips":[
+         1,
+         1,
+         2,
+         3,
+         0
+      ],
+      "faceIndex":0,
+      "faceName":"Actor1",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Gart",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 21 to 28>\n  <Column 2 Variables: 29 to 36>\n  <Column 3 Variables: 37 to 40>\n",
+      "profile":""
+   },
+   {
+      "id":2,
+      "battlerName":"Actor1_8",
+      "characterIndex":7,
+      "characterName":"Actor1",
+      "classId":2,
+      "equips":[
+         2,
+         1,
+         2,
+         3,
+         0
+      ],
+      "faceIndex":7,
+      "faceName":"Actor1",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Arminas",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 41 to 48>\n  <Column 2 Variables: 49 to 56>\n  <Column 3 Variables: 57 to 60>\n",
+      "profile":""
+   },
+   {
+      "id":3,
+      "battlerName":"Actor3_8",
+      "characterIndex":7,
+      "characterName":"Actor3",
+      "classId":3,
+      "equips":[
+         3,
+         0,
+         2,
+         3,
+         4
+      ],
+      "faceIndex":7,
+      "faceName":"Actor3",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Lalwen",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 61 to 68>\n  <Column 2 Variables: 69 to 76>\n  <Column 3 Variables: 77 to 80>\n",
+      "profile":""
+   },
+   {
+      "id":4,
+      "battlerName":"Actor2_7",
+      "characterIndex":6,
+      "characterName":"Actor2",
+      "classId":4,
+      "equips":[
+         4,
+         0,
+         2,
+         3,
+         4
+      ],
+      "faceIndex":6,
+      "faceName":"Actor2",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Luthien",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 81 to 88>\n  <Column 2 Variables: 89 to 96>\n  <Column 3 Variables: 97 to 100>\n",
+      "profile":""
+   },
+   {
+      "id":5,
+      "battlerName":"Actor2_6",
+      "characterIndex":5,
+      "characterName":"Actor2",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":5,
+      "faceName":"Actor2",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Serindé",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 101 to 108>\n  <Column 2 Variables: 109 to 116>\n  <Column 3 Variables: 117 to 120>\n",
+      "profile":""
+   },
+   {
+      "id":6,
+      "battlerName":"hector1_7",
+      "characterIndex":0,
+      "characterName":"hector1_7",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":0,
+      "faceName":"hector1_7",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Olympe",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 121 to 128>\n  <Column 2 Variables: 129 to 136>\n  <Column 3 Variables: 136 to 140>\n",
+      "profile":""
+   },
+   {
+      "id":7,
+      "battlerName":"fantasy-heroine-sv_actors01",
+      "characterIndex":0,
+      "characterName":"Fantasy-Heroine",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":5,
+      "faceName":"Elf A",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Armechy",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 141 to 148>\n  <Column 2 Variables: 149 to 156>\n  <Column 3 Variables: 157 to 160>\n",
+      "profile":""
+   },
+   {
+      "id":8,
+      "battlerName":"fantasy-heroine-sv_actors07",
+      "characterIndex":6,
+      "characterName":"Fantasy-Heroine",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":5,
+      "faceName":"Elf B",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Kathris",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 161 to 168>\n  <Column 2 Variables: 169 to 176>\n  <Column 3 Variables: 177 to 180>\n",
+      "profile":""
+   },
+   {
+      "id":9,
+      "battlerName":"fantasy-heroine-sv_actors04",
+      "characterIndex":3,
+      "characterName":"Fantasy-Heroine",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":2,
+      "faceName":"Inari",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Larodia",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 181 to 188>\n  <Column 2 Variables: 189 to 196>\n  <Column 3 Variables: 197 to 200>\n",
+      "profile":""
+   },
+   {
+      "id":10,
+      "battlerName":"fantasy-heroine-sv_actors08",
+      "characterIndex":7,
+      "characterName":"Fantasy-Heroine",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":2,
+      "faceName":"Gothic Lolita",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Nuada",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 201 to 208>\n  <Column 2 Variables: 209 to 216>\n  <Column 3 Variables: 217 to 220>\n",
+      "profile":""
+   },
+   {
+      "id":11,
+      "battlerName":"fantasy-heroine-sv_actors02",
+      "characterIndex":1,
+      "characterName":"Fantasy-Heroine",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":1,
+      "faceName":"Neko Musume",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Tygra",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 221 to 228>\n  <Column 2 Variables: 229 to 236>\n  <Column 3 Variables: 237 to 240>\n",
+      "profile":""
+   },
+   {
+      "id":12,
+      "battlerName":"fantasy-heroine-sv_actors06b",
+      "characterIndex":5,
+      "characterName":"Fantasy-Heroine",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":0,
+      "faceName":"Samurai",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Sabrae",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 241 to 248>\n  <Column 2 Variables: 249 to 256>\n  <Column 3 Variables: 257 to 260>\n",
+      "profile":""
+   },
+   {
+      "id":13,
+      "battlerName":"hector1_3",
+      "characterIndex":0,
+      "characterName":"hector1_3",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":0,
+      "faceName":"hector1_3",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Stakka",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 261 to 268>\n  <Column 2 Variables: 269 to 276>\n  <Column 3 Variables: 277 to 280>\n",
+      "profile":""
+   },
+   {
+      "id":14,
+      "battlerName":"Actor1_7",
+      "characterIndex":6,
+      "characterName":"Actor1",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":6,
+      "faceName":"Actor1",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Vayreh",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 281 to 288>\n  <Column 2 Variables: 289 to 296>\n  <Column 3 Variables: 297 to 300>\n",
+      "profile":""
+   },
+   {
+      "id":15,
+      "battlerName":"hector1_4",
+      "characterIndex":0,
+      "characterName":"hector1_4",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":0,
+      "faceName":"hector1_4",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Lenwe",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 301 to 308>\n  <Column 2 Variables: 309 to 316>\n  <Column 3 Variables: 317 to 320>\n",
+      "profile":""
+   },
+   {
+      "id":16,
+      "battlerName":"Actor2_1",
+      "characterIndex":0,
+      "characterName":"Actor2",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":0,
+      "faceName":"Actor2",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Haldor",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 321 to 328>\n  <Column 2 Variables: 329 to 336>\n  <Column 3 Variables: 337 to 340>\n",
+      "profile":""
+   },
+   {
+      "id":17,
+      "battlerName":"hector1_1",
+      "characterIndex":0,
+      "characterName":"hector1_1",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":0,
+      "faceName":"hector1_1",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Eluchil",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 341 to 348>\n  <Column 2 Variables: 349 to 356>\n  <Column 3 Variables: 357 to 360>\n",
+      "profile":""
+   },
+   {
+      "id":18,
+      "battlerName":"hector1_5",
+      "characterIndex":0,
+      "characterName":"hector1_5",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":0,
+      "faceName":"hector1_5",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Mifia",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 361 to 368>\n  <Column 2 Variables: 369 to 376>\n  <Column 3 Variables: 377 to 380>\n",
+      "profile":""
+   },
+   {
+      "id":19,
+      "battlerName":"Actor2_8",
+      "characterIndex":7,
+      "characterName":"Actor2",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":7,
+      "faceName":"Actor2",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Kiselle",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 381 to 388>\n  <Column 2 Variables: 389 to 396>\n  <Column 3 Variables: 397 to 400>\n",
+      "profile":""
+   },
+   {
+      "id":20,
+      "battlerName":"hector1_6",
+      "characterIndex":0,
+      "characterName":"hector1_6",
+      "classId":1,
+      "equips":[
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      "faceIndex":0,
+      "faceName":"hector1_6",
+      "traits":[
+
+      ],
+      "initialLevel":1,
+      "maxLevel":99,
+      "name":"Méisel",
+      "nickname":"",
+      "note":"  <Column 1 Variables: 401 to 408>\n  <Column 2 Variables: 409 to 416>\n  <Column 3 Variables: 417 to 420>\n",
+      "profile":""
+   }
 ]
